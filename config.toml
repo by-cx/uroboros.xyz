@@ -1,0 +1,28 @@
+baseurl= "https://uroboros.xyz/"
+languagecode= "en"
+title= "Uroboros.xyz"
+paginate = 5
+# DisqusShortname = "YOUR_SHORT_NAME_HERE"
+copyright = "Creative Commons Attribution 4.0 International License."
+canonifyurls = true
+theme = "hugo-theme-casper"
+
+[params]
+  description = "Linux, servers, and the real world"
+  cover = "images/cover.jpg"
+  author = "Adam Štrauch"
+  authorlocation = "HK, Czechia"
+  authorwebsite = "https://initd.cz"
+  #bio= ""
+  #logo = "images/logo.png"
+  #googleAnalyticsUserID = "UA-79101-12"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  #RSSLink = "http://feeds.feedburner.com/..."
+  githubName = "creckx"
+  twitterName = "byCx"
+  # facebookName = "AdamStrauch"
+  # linkedinName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+  [params.social]
+    twitter = "byCx"

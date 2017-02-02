@@ -52,7 +52,7 @@ It's good to try recover one or two backups time to time. It's really time consu
 
 ![GitLab's status Twitter account](/post/2017/backup1.png)
 
-And the last and the most important thing is communication. You have to tell to your users what are you doing and how long it will take. It doesn't have to be precise, but it's always good to say something and say it often. I don't have to describe this much, because GitLab team showed to all of us how to deal with the communication. They had [their document](https://docs.google.com/document/d/1GCK53YDcBWQveod9kfzW-V) with all details and timeline and they used their [status Twitter account](https://twitter.com/gitlabstatus) for regular updates of the recovery process. The number of clients you will have after you solve the disaster depends on the communication.
+And the last and the most important thing is communication. You have to tell to your users what are you doing and how long it will take. It doesn't have to be precise, but it's always good to say something and say it often. I don't have to describe this much, because GitLab team showed to all of us how to deal with the communication. They had [their document](https://docs.google.com/document/d/1GCK53YDcBWQveod9kfzW-VCxIABGiryG7_z_6jHdVik/pub) with all details and timeline and they used their [status Twitter account](https://twitter.com/gitlabstatus) for regular updates of the recovery process. The number of clients you will have after you solve the disaster depends on the communication.
 
 I can talk about backup stories even more, but let's end it here and go to check your backups. Mine are OK :-)
 

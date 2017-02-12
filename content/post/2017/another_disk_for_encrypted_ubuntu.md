@@ -37,9 +37,9 @@ If anything goes wrong, call this to recover:
 
 The new SSD should have a some partition table. One partition is enough and the easies way is to [use *gparted*](http://gparted.org/):
 
-![Gparted with encrypted partition](post/2017/luks_gparted_1.png)
+![Gparted with encrypted partition](/post/2017/luks_gparted_1.png)
 
-![Gparted with encrypted partition](post/2017/luks_gparted_2.png)
+![Gparted with encrypted partition](/post/2017/luks_gparted_2.png)
 
 You can also use *parted* in your command line:
 
